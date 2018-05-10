@@ -1,7 +1,7 @@
 # Programming 1.0
 
 A nostalgic collection of some of my first programs, including [my first hello
-world in C]().
+world in C](https://github.com/ShadowTemplate/programming-1.0/blob/master/Esercitazione%201/Esercizio%201.c).
 
 ---
 ## Information
